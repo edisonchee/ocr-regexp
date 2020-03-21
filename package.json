@@ -1,0 +1,15 @@
+{
+  "name": "ocr-regexp",
+  "version": "0.1.0",
+  "description": "OCR tool with regexp matching",
+  "scripts": {
+    "start": "python -m http.server 8000 --directory src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edison Chee <edisonchee@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edisonchee/ocr-regexp/issues"
+  },
+  "homepage": "https://github.com/edisonchee/ocr-regexp#readme"
+}
