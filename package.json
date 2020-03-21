@@ -1,6 +1,6 @@
 {
   "name": "ocr-regexp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OCR tool with regexp matching",
   "scripts": {
     "start": "python -m http.server 8000 --directory src",
